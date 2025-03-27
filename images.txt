@@ -1,1 +1,1 @@
- openjdk:19-jre-slim
+ openjdk:19
